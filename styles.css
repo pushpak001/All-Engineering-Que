@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .ebook-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .ebook-title {
+    font-weight: bold;
+  }
+  
+  .ebook-exam {
+    font-style: italic;
+  }
+  
+  .ebook-description {
+    margin-top: 5px;
+  }
+  
+  .ebook-download {
+    display: block;
+    margin-top: 5px;
+  }
+  
