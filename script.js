@@ -21,6 +21,12 @@ document.addEventListener('DOMContentLoaded', function() {
           description: '',
             file: 'https://drive.google.com/drive/folders/1WCs-j3XqulUtr2oaKMRkq6F7Vsw_t_LZ?usp=share_link'
           },
+        {
+        title: 'SPPU TECOMP All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/17KP2KUNXaVWiiSSJ5G6_dL-nUT8z4xpl?usp=share_link'
+      },
       // Add more eBook objects as needed
     ];
   
