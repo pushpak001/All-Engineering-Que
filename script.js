@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         title: 'SPPU TEIT All Que Paper 2019 Pattern',
         exam : 'winter/summer 2022-23',
         description: 'Regular And Backlog All que paper in winter/summer',
-        file: 'https://drive.google.com/drive/folders/1dYQBIlv0zDp1ZFbRK4oTWXmaUSqTVVxR?usp=share_link'
+        file: 'https://drive.google.com/drive/folders/12oMfECu9nveyXMFNtu3fUhm335ViqPU3?usp=share_link'
       },
       {
         title: 'SPPU TE ENTC all Que Paper 2019 Pattern',
