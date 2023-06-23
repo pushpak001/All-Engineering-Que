@@ -47,6 +47,12 @@ document.addEventListener('DOMContentLoaded', function() {
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1Hp7ahtAdGwmww2tOARAZQNvKN1e-dCiO?usp=share_link'
       },
+        {
+        title: 'SPPU TE (AIDS) Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1QCfTQVe777FmxD0UH6qP-kqg5ZKnQwpD?usp=share_link'
+      },
       // Add more eBook objects as needed
     ];
   
