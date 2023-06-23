@@ -33,6 +33,13 @@ document.addEventListener('DOMContentLoaded', function() {
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1ZkFWSrpA2itSikccISIKIJNKDXBfvbTw?usp=share_link'
       },
+
+        {
+        title: 'SPPU TE Electrical Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1m9_7RzaCD1J9PJrC91TXMPGU2PFtY2-7?usp=share_link'
+      },
       // Add more eBook objects as needed
     ];
   
