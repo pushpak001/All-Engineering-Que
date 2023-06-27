@@ -73,6 +73,13 @@ document.addEventListener('DOMContentLoaded', function() {
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1yNcAFJK-xlWderCfs0bbDkfHxwl1JWVn?usp=share_link'
       },
+
+        {
+        title: 'SPPU SE COMP Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1opbPrDYr2tRzjcTzBCvex1tVCLjp-Wbo?usp=share_link'
+      },
       // Add more eBook objects as needed
     ];
   
