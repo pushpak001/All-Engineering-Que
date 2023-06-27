@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
 
          {
-        title: 'Second Year',
+        console.log('Second Year');
         
             
       },
