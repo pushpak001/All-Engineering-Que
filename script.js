@@ -62,11 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
       },
         
 
-         {
-        console.log('Second Year');
         
-            
-      },
         {
         title: 'SPPU SE IT Engineering All Que Paper 2019 Pattern',
         exam : 'winter/summer 2022-23',
