@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         
         {
-        title: 'SPPU TECOMP All Que Paper 2019 Pattern',
+        title: 'SPPU TE COMP All Que Paper 2019 Pattern',
         exam : 'winter/summer 2022-23',
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/17KP2KUNXaVWiiSSJ5G6_dL-nUT8z4xpl?usp=share_link'
@@ -130,10 +130,62 @@ document.addEventListener('DOMContentLoaded', function() {
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1HIHUaDtMmuCCvJkPM05Bufcb6y28qaxY?usp=share_link'
       },
-        
 
+         {
+        title: 'SPPU BE IT Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1ii2ZUf2hVea2heKbo9Wl9YB858f7TPz4?usp=share_link'
+      },
 
-       
+        {
+        title: 'SPPU BE ENTC Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1NRsbYND0OwsamTz5_e5ceamHVVj0tGru?usp=share_link'
+      },
+
+         {
+        title: 'SPPU BE Comp Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1XyOahg6kOvaOGya5ylLBMN_w0L53SfcN?usp=share_link'
+      },
+
+         {
+        title: 'SPPU BE Robotics & Automation Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/10GjaTwWc-SLdLZriUFuW-b3FbJDt9FvZ?usp=share_link'
+      },
+
+         {
+        title: 'SPPU BE Electrical Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1NZrIxSGyMwegfmZE_Zd6SVI4z74GH7ZK?usp=share_link'
+      },
+
+         {
+        title: 'SPPU BE Civil Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1z0LPNPo3BaBzpjDv9ArhEwdVGf4XAFC8?usp=share_link'
+      },
+
+          {
+        title: 'SPPU BE (AIDS) Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1G95AtQq4zFmA5nDfT5y8gWQ-4OtygbTk?usp=share_link'
+      },
+
+         {
+        title: 'SPPU BE Mechanical Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1wPFPVBJwknIdcuoZG5i4PBhWt9dG7dbz?usp=share_link'
+      },
 
         
 
