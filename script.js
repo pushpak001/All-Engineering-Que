@@ -3,6 +3,14 @@ document.addEventListener('DOMContentLoaded', function() {
   
     // Array of eBook objects
     var ebooks = [
+
+        {
+        title: 'SPPU FE Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1eYo05d3WvaLaHT79EEX_iiEqwP3HAPM1?usp=share_link'
+            
+      },
       {
         title: 'SPPU TEIT All Que Paper 2019 Pattern',
         exam : 'winter/summer 2022-23',
@@ -115,12 +123,16 @@ document.addEventListener('DOMContentLoaded', function() {
       },
 
          {
-        title: 'SPPU Mechanical Engineering All Que Paper 2019 Pattern',
+        title: 'SPPU SE Mechanical Engineering All Que Paper 2019 Pattern',
         exam : 'winter/summer 2022-23',
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1uXW3F0pd7PnZqAV3_oSGjGPajAy35fum?usp=share_link'
             
       },
+
+        
+
+        
       // Add more eBook objects as needed
     ];
   
