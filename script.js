@@ -60,6 +60,13 @@ document.addEventListener('DOMContentLoaded', function() {
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1HIHUaDtMmuCCvJkPM05Bufcb6y28qaxY?usp=share_link'
       },
+        
+
+         {
+        title: 'Second Year',
+        
+            
+      },
         {
         title: 'SPPU SE IT Engineering All Que Paper 2019 Pattern',
         exam : 'winter/summer 2022-23',
@@ -112,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
       },
 
          {
-        title: 'SPPU Mechanical AIDS Engineering All Que Paper 2019 Pattern',
+        title: 'SPPU Mechanical Engineering All Que Paper 2019 Pattern',
         exam : 'winter/summer 2022-23',
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1uXW3F0pd7PnZqAV3_oSGjGPajAy35fum?usp=share_link'
