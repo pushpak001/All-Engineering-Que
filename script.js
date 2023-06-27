@@ -95,6 +95,29 @@ document.addEventListener('DOMContentLoaded', function() {
         file: 'https://drive.google.com/drive/folders/1utQAiK80p3MXNHJwyzcsclHsC5QmXvs7?usp=share_link'
             
       },
+        {
+        title: 'SPPU SE Civil Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1wYgmsGV52ghuMX2pFed04APL1nz-RZ41?usp=share_link'
+            
+      },
+
+        {
+        title: 'SPPU SE AIDS Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1d61Y8Ios6zuuXXr-uZske6aveyGAl7x2?usp=share_link'
+            
+      },
+
+         {
+        title: 'SPPU Mechanical AIDS Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1uXW3F0pd7PnZqAV3_oSGjGPajAy35fum?usp=share_link'
+            
+      },
       // Add more eBook objects as needed
     ];
   
