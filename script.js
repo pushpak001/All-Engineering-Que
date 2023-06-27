@@ -87,6 +87,14 @@ document.addEventListener('DOMContentLoaded', function() {
         file: 'https://drive.google.com/drive/folders/1re2_Tj4TQ1YUKMVJd8Bz6kNpoiraBFdv?usp=share_link'
             
       },
+
+        {
+        title: 'SPPU SE Electrical Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1utQAiK80p3MXNHJwyzcsclHsC5QmXvs7?usp=share_link'
+            
+      },
       // Add more eBook objects as needed
     ];
   
