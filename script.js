@@ -67,6 +67,12 @@ document.addEventListener('DOMContentLoaded', function() {
         file: 'https://drive.google.com/drive/folders/1gzR_j6_FM96he-U-AMcv4d-jQCKD0zu8?usp=share_link'
       
         },
+        {
+        title: 'SPPU SE ENTC Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1yNcAFJK-xlWderCfs0bbDkfHxwl1JWVn?usp=share_link'
+      },
       // Add more eBook objects as needed
     ];
   
