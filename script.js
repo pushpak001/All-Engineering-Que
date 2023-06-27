@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
         file: 'https://drive.google.com/drive/folders/17KP2KUNXaVWiiSSJ5G6_dL-nUT8z4xpl?usp=share_link'
       },
         {
-        title: 'SPPU TE Automation & Robotics All Que Paper 2019 Pattern',
+        title: 'SPPU TE Robotics & Automation All Que Paper 2019 Pattern',
         exam : 'winter/summer 2022-23',
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1ZkFWSrpA2itSikccISIKIJNKDXBfvbTw?usp=share_link'
@@ -79,6 +79,12 @@ document.addEventListener('DOMContentLoaded', function() {
         exam : 'winter/summer 2022-23',
         description: 'Regular And Backlog All que paper in winter/summer',
         file: 'https://drive.google.com/drive/folders/1opbPrDYr2tRzjcTzBCvex1tVCLjp-Wbo?usp=share_link'
+      },
+        {
+        title: 'SPPU SE Robotics & Automation Engineering All Que Paper 2019 Pattern',
+        exam : 'winter/summer 2022-23',
+        description: 'Regular And Backlog All que paper in winter/summer',
+        file: 'https://drive.google.com/drive/folders/1re2_Tj4TQ1YUKMVJd8Bz6kNpoiraBFdv?usp=share_link'
       },
       // Add more eBook objects as needed
     ];
